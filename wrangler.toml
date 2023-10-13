@@ -10,6 +10,6 @@ build.command = "npm install && npm run build:worker"
 binding = "AI"
 
 [[d1_databases]]
-binding = "DB"
-database_name = "llama2"
-database_id = "e24eb37b-6b13-4e84-b1af-63de0dedcc6d"
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "llama2-db"
+database_id = "58c55e70-5de8-4297-9fba-7b3503e60dd1"
