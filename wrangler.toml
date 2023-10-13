@@ -13,3 +13,8 @@ binding = "AI"
 binding = "DB" # i.e. available in your Worker on env.DB
 database_name = "llama2"
 database_id = "2264cb8d-8e62-440c-ae16-e000178bbf0b"
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "MODELS_DB"
+database_id = "5bdced59-d25a-4120-9783-53613c7995d7"
