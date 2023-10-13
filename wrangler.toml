@@ -11,5 +11,5 @@ binding = "AI"
 
 [[d1_databases]]
 binding = "DB" # i.e. available in your Worker on env.DB
-database_name = "llama2-db"
-database_id = "58c55e70-5de8-4297-9fba-7b3503e60dd1"
+database_name = "llama2"
+database_id = "2264cb8d-8e62-440c-ae16-e000178bbf0b"
